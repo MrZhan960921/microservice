@@ -1,5 +1,6 @@
 package com.zcq.user.client;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.common.cache.Cache;
 import com.google.common.cache.CacheBuilder;
 import com.zcq.thrift.user.dto.UserDTO;
